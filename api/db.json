@@ -1,0 +1,57 @@
+{
+  "pilots": [
+    {
+      "id": 1,
+      "firstName": "Joanna",
+      "lastName": "Nowak",
+      "imageUrl": "/assets/pilot1.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "Pilot",
+      "lastName": "Pirx",
+      "imageUrl": "/assets/pilot2.png"
+    },
+    {
+      "id": 3,
+      "firstName": "R2",
+      "lastName": "D2",
+      "imageUrl": "/assets/pilot3.png"
+    },
+    {
+      "id": 4,
+      "firstName": "Ijon",
+      "lastName": "Tichy",
+      "imageUrl": null
+    },
+    {
+      "id": 5,
+      "firstName": "John",
+      "lastName": "Doe",
+      "imageUrl": "/assets/unknown-pilot.jpg"
+    },
+    {
+      "firstName": "Maruda",
+      "lastName": "Smerf",
+      "imageUrl": "/assets/unknown-pilot.jpg",
+      "id": 6
+    },
+    {
+      "firstName": "Smerf",
+      "lastName": "Marudaa",
+      "imageUrl": "/assets/unknown-pilot.jpg",
+      "id": 7
+    }
+  ],
+  "forbidden-names": [
+    {
+      "name": "Maruda"
+    },
+    {
+      "name": "Ciamajda"
+    },
+    {
+      "name": "Gapcio"
+    }
+  ]
+}

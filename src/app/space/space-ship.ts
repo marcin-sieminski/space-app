@@ -3,7 +3,7 @@ import {Pilot} from "./pilot";
 export class SpaceShip {
   modelName: string;
   imageUrl: string;
-  health = 100;
+  health = 90;
   activeShields = true;
   activeWeapons = true;
   pilot?: Pilot;

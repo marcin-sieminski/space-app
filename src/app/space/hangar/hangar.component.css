@@ -5,3 +5,26 @@
 .hangar-section {
   flex: 1;
 }
+
+.sub-nav {
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+
+a {
+  font-weight: bold;
+  color: white;
+}
+
+a.active {
+  color: orange;
+}
+
+a {
+  font-weight: bold;
+  color: white;
+}
+
+a.active {
+  color: orange;
+}
